@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=review-widgets-for-airbnb%2Fsettings.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-airbnb-preview": "1"
+            }
+        }
+    ]
+}
